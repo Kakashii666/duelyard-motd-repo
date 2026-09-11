@@ -1,80 +1,68 @@
-### [EU] 666 DuelYard | No FFA | 128 Tickrate | Active Admins | Clean Duels
+# 666 DuelYard
+### EU Mordhau Duel Server
 
-![](https://github.com/Kakashii666/duelyard-motd-repo/blob/main/assets/static-server-logo/duelyard-logo.png)
+![666 DuelYard Animated Server Logo](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/animated-server-logo/duelyard-logo.gif)
 
-## 666 DuelYard
+**NO FFA - 128 TICKRATE - ACTIVE ADMINS - CLEAN DUELS**
 
-**EU Mordhau Duel Server**
+***Flourish first. Fight clean. Duel with honor.***
 
-**NO FFA** - **128 TICKRATE** - **ACTIVE ADMINS** - **CLEAN DUELS**
+<a id="Join the 666 DuelYard Discord">https://discord.gg/kakashii666</>
 
-**Flourish first. Fight clean. Duel with honor.**
-
-Discord: https://discord.gg/kakashii666
-
-![](https://i.ibb.co/YSwpqZj/Mordhau-Server-Banner-small.png)
+![666 DuelYard Server Banner](https://i.ibb.co/YSwpqZj/Mordhau-Server-Banner-small.png)
 
 ## How Duels Work
-
 1. Walk up to the player you want to challenge and **Flourish (X + 1)**.
 2. Wait for your opponent to Flourish back.
-3. The duel begins **only after both Flourishes are completely finished**.
-4. Do not interfere with an ongoing duel. Do not block, bump or stand inside another fight.
-5. If you are not dueling, stay clear of the active fight area.
-6. After the fight, heal and re-equip **outside the duel space**.
+3. The duel starts **only after both Flourishes are complete**.
+4. Do not hit early, interfere, block, bump, or stand in the way of another duel.
+5. After the fight, heal and re-equip **outside the active duel space**.
 
-![](https://i.ibb.co/chzZqtD7/Duel-Rules.png)
+![Duel Rules](https://i.ibb.co/chzZqtD7/Duel-Rules.png)
 
 ### Starting a Duel
-
-- Face your opponent at a safe distance.
+- Face your opponent from a safe distance.
 - Press **X + 1** to Flourish.
-- Wait for your opponent to Flourish back.
-- **No return Flourish means no duel.**
-- No hits until both Flourishes are finished.
-
-![](https://i.ibb.co/Gvm3b4Cm/Server-Rules.png)
+- Wait for the other player to Flourish back.
+- Once both Flourishes are finished, the duel may begin.
 
 ## Server Rules
-
 1. **No FFA.** One fight per ring.
 2. **Do not interfere** with ongoing duels.
-3. **No ranged weapons, horses, catapults, firepots or toolbox.**
-4. **No spawn killing or griefing.**
-5. **No toxic chat, harassment or slurs.**
-6. **Respect line order.** No cutting.
-7. **No looting active fighters.**
-8. **Always Flourish before attacking.** No surprise hits.
-9. **Use common sense. Admins have final say.**
+3. No ranged weapons, horses, catapults, firepots, or toolbox abuse.
+4. No spawn killing or griefing.
+5. No toxic chat, harassment, or slurs.
+6. Respect line order. **No cutting.**
+7. Do not loot active fighters.
+8. Use common sense. **Admins have final say.**
+
+![Server Rules](https://i.ibb.co/Gvm3b4Cm/Server-Rules.png)
 
 ## Duel Etiquette
-
-- Give active fights enough room.
-- Do not body-block, crowd or interrupt another duel.
-- Heal and re-equip **away from active fights**.
-- If you pick up another player's weapon and they clearly want it back, return it or drop it nearby.
-- Keep the yard competitive without making it toxic.
+- Always start with a **Flourish (X + 1)**. No surprise hits.
+- Give players enough room to fight.
+- Do not walk through, block, or distract active duelers.
+- Heal and re-equip away from active fights.
+- If someone picks up your weapon, point at it or ask for it back.
+- Be respectful to new and experienced players alike.
 
 ## Map Rotation
+- At the end of each match, vote for one of the available maps.
+- Admins may change the map when requested by chat or when another map provides better flow.
 
-- At the end of each match, vote for one of the listed maps.
-- Admins may change the map if players request something else or another map provides better server flow.
-
-![](https://i.ibb.co/fzbm9wWr/Reports-Support.png)
+![Reports and Support](https://i.ibb.co/fzbm9wWr/Reports-Support.png)
 
 ## Reports and Admins
-
-- If somebody breaks the rules, record a short clip when possible and open a ticket on Discord.
-- Discord: https://discord.gg/kakashii666
+- If someone breaks the rules, record a short clip if possible.
+- Open a ticket on Discord and include the player's name and evidence.
 - In game, look for players with an **[Admin]** or **[Mod]** tag.
-- Progressive actions: **Warn - Kick - Temp Ban - Ban**.
+- Staff actions may include **warning, kick, temporary ban, or permanent ban** depending on the situation.
 
-## Support The Server
+### Discord and Support
+<a id="Open the 666 DuelYard Discord">https://discord.gg/kakashii666</>
 
-- Invite friends and be welcoming to new duelers.
-- Feedback is appreciated. Contact an admin or write in Discord.
-- Help us keep the server clean, competitive and fun.
+- Invite friends and help keep the server active.
+- Feedback and suggestions are welcome.
+- Contact an Admin or Mod if you need help.
 
-### Have fun and duel with honor.
-
-**666 DuelYard**
+***Have fun and duel with honor.***
