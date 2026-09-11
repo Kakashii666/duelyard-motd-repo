@@ -1,6 +1,6 @@
 ### [EU] 666 DuelYard | No FFA | 128 Tickrate | Active Admins | Clean Duels
 
-![](https://github.com/Kakashii666/duelyard-motd-repo/blob/main/assets/animated-server-logo/duelyard-logo.gif)
+![](https://github.com/Kakashii666/duelyard-motd-repo/blob/main/assets/static-server-logo/duelyard-logo.png)
 
 ## 666 DuelYard
 
