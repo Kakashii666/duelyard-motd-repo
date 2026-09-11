@@ -1,7 +1,4 @@
-# 666 DuelYard
-### EU Mordhau Duel Server
-
-![666 DuelYard Static Server Logo](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/duelyard-logo.png)
+![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/duelyard-logo.png)
 
 **NO FFA - 128 TICKRATE - ACTIVE ADMINS - CLEAN DUELS**
 
