@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/animated-server-logo/666-duelyard-logo.gif" alt="666 DuelYard animated server logo" width="180">
+<img src="assets/animated-server-logo/duelyard-logo.gif" alt="666 DuelYard animated server logo" width="180">
 
 # 666 DuelYard
 
