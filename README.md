@@ -1,65 +1,45 @@
-![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/duelyard-logo.png)
+![Honor of the Ronin Logo](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/honor-of-the-ronin-logo.png)
 
-**NO FFA - 128 TICKRATE - ACTIVE ADMINS - CLEAN DUELS**
+# **[EU] Honor of the Ronin™**
 
-***Flourish first. Fight clean. Duel with honor.***
-
-<a id="Join the 666 DuelYard Discord">https://discord.gg/kakashii666</>
-
-![666 DuelYard Server Banner](https://i.ibb.co/YSwpqZj/Mordhau-Server-Banner-small.png)
-
-## How Duels Work
-1. Walk up to the player you want to challenge and **Flourish (X + 1)**.
-2. Wait for your opponent to Flourish back.
-3. The duel starts **only after both Flourishes are complete**.
-4. Do not hit early, interfere, block, bump, or stand in the way of another duel.
-5. After the fight, heal and re-equip **outside the active duel space**.
-
-![Duel Rules](https://i.ibb.co/chzZqtD7/Duel-Rules.png)
-
-### Starting a Duel
-- Face your opponent from a safe distance.
-- Press **X + 1** to Flourish.
-- Wait for the other player to Flourish back.
-- Once both Flourishes are finished, the duel may begin.
+**READ THE RULES BELOW BEFORE DUELING**
 
 ## Server Rules
-1. **No FFA.** One fight per ring.
-2. **Do not interfere** with ongoing duels.
-3. No ranged weapons, horses, catapults, firepots, or toolbox abuse.
-4. No spawn killing or griefing.
-5. No toxic chat, harassment, or slurs.
-6. Respect line order. **No cutting.**
-7. Do not loot active fighters.
-8. Use common sense. **Admins have final say.**
 
-![Server Rules](https://i.ibb.co/Gvm3b4Cm/Server-Rules.png)
+1. **Flourish before normal duels** - wait for your opponent to Flourish back before attacking.
+2. **No FFA, revenge FFA, or duel interference.**
+3. **Friendly FFA and group fights are allowed** when everyone involved agrees and other players are not disturbed.
+4. **Give players time to heal** and respect when someone does not want to duel.
+5. **Do not grief, body-block, or intentionally disrupt other players.**
+6. **Bear traps and firebombs are not allowed.**
+7. **Ranged and throwing weapons are allowed** in consensual duels.
+8. **Banter is fine within reason** - harassment, racial slurs, hateful behavior, and excessive toxicity are not.
+9. **No cheating, unfair macros, serious exploit abuse, or ban evasion.**
+10. **Follow reasonable staff instructions.** If you disagree with a punishment, use Discord support.
 
-## Duel Etiquette
-- Always start with a **Flourish (X + 1)**. No surprise hits.
-- Give players enough room to fight.
-- Do not walk through, block, or distract active duelers.
-- Heal and re-equip away from active fights.
-- If someone picks up your weapon, point at it or ask for it back.
-- Be respectful to new and experienced players alike.
+![Server Rules](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/rules/server-rules.png)
 
-## Map Rotation
-- At the end of each match, vote for one of the available maps.
-- Admins may change the map when requested by chat or when another map provides better flow.
+## Duel Basics
 
-![Reports and Support](https://i.ibb.co/fzbm9wWr/Reports-Support.png)
+- Challenge a player with **Flourish (X + 1)**.
+- Wait until they Flourish back.
+- Do not attack early.
+- Do not interfere with active duels.
+- Accidental hits happen - stop, apologize, and do not repeat them.
+- Friendly fights, 2v2s, 3v3s, and similar fights are fine when everyone agrees.
 
-## Reports and Admins
-- If someone breaks the rules, record a short clip if possible.
-- Open a ticket on Discord and include the player's name and evidence.
-- In game, look for players with an **[Admin]** or **[Mod]** tag.
-- Staff actions may include **warning, kick, temporary ban, or permanent ban** depending on the situation.
+## Reports & Support
 
-### Discord and Support
-<a id="Open the 666 DuelYard Discord">https://discord.gg/kakashii666</>
+If someone breaks the rules:
 
-- Invite friends and help keep the server active.
-- Feedback and suggestions are welcome.
-- Contact an Admin or Mod if you need help.
+- Record a short clip when possible.
+- Do **not** revenge FFA.
+- Open a Discord ticket with the player's name, context, and evidence.
 
-***Have fun and duel with honor.***
+<a id="Join the Honor of the Ronin Discord">https://discord.gg/TPuYmM3pET</>
+
+Use Discord for **reports, appeals, staff reports, support, and staff applications**.
+
+**Staff use context and common sense. Accidents are treated differently from intentional rule-breaking.**
+
+***Fight fair. Respect the duel. Duel with honor.***
