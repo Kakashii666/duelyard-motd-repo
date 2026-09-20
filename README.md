@@ -1,4 +1,4 @@
-![Honor of the Ronin Logo](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/server-logo.png)
+![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/server-logo.png)
 # **[EU] Honor of the Ronin™**
 
 **READ THE RULES BELOW BEFORE DUELING**
@@ -16,7 +16,7 @@
 9. **No cheating, unfair macros, serious exploit abuse, or ban evasion.**
 10. **Follow reasonable staff instructions.** If you disagree with a punishment, use Discord support.
 
-![Server Rules](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/rules/server-rules.png)
+![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/rules/server-rules.png)
 
 ## Duel Basics
 
