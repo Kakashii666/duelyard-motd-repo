@@ -1,4 +1,4 @@
-![Honor of the Ronin Logo](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/duelyard-logo.png)
+![Honor of the Ronin Logo](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/server-logo.png)
 # **[EU] Honor of the Ronin™**
 
 **READ THE RULES BELOW BEFORE DUELING**
