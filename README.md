@@ -1,8 +1,7 @@
 ![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/static-server-logo/server-banner.png)
-# **[EU] Honor of the Ronin™**
-
 **READ THE RULES BELOW BEFORE DUELING**
 
+![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/rules/server-rules.png)
 ## Server Rules
 
 1. **Flourish before normal duels** - wait for your opponent to Flourish back before attacking.
@@ -16,8 +15,8 @@
 9. **No cheating, unfair macros, serious exploit abuse, or ban evasion.**
 10. **Follow reasonable staff instructions.** If you disagree with a punishment, use Discord support.
 
-![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/rules/server-rules.png)
 
+![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/rules/server-rules.png)
 ## Duel Basics
 
 - Challenge a player with **Flourish (X + 1)**.
