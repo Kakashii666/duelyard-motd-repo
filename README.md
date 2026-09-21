@@ -16,7 +16,7 @@
 10. **Follow reasonable staff instructions.** If you disagree with a punishment, use Discord support.
 
 
-![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/rules/server-rules.png)
+![](https://raw.githubusercontent.com/Kakashii666/duelyard-motd-repo/main/assets/rules/duel-basics.png)
 ## Duel Basics
 
 - Challenge a player with **Flourish (X + 1)**.
